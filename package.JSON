@@ -1,0 +1,10 @@
+{
+    "name": "com.rocketprinter.tweaks",
+    "version": "1.0.0",
+    "displayName": "RocketPrinter's editor tweaks",
+    "description": "A few tweaks and tools to make your Editor nicer",
+    "author": {
+        "name": "RocketPrinter",
+        "url": "https://github.com/RocketPrinter"
+    }
+}
